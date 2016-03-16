@@ -1,0 +1,57 @@
+/**--- Base Element Styles ---**/
+* {
+
+}
+
+body {
+
+}
+
+p {
+
+}
+
+h1, h2, h3 {
+
+}
+
+a {
+
+}
+
+
+/*--- Base Layout Styles ---*/
+.main-navigation {
+
+}
+
+.main-navigation a {
+
+}
+
+.main-navigation a:hover {
+
+}
+
+.main-city-img {
+
+}
+
+/*--- Media Queries ---*/
+
+/*--- Mobile Device Query ---*/
+@media screen and (min-width: 320px) and (max-width: 649px) {
+
+}
+
+
+/*--- Ipad/ChromeBook Device Query ---*/
+@media screen and (min-width: 650px) and (max-width: 768px) {
+
+}
+
+/*--- Laptop/Computer Query ---*/
+@media (min-width: 769px) {
+
+}
+
