@@ -20,14 +20,14 @@ a {
 }
 
 figcaption {
-	background: red;
-	margin: 0 auto;
-	overflow: hidden;
-	position: absolute;
+	/*background: red;*/
+	/*margin: 0 auto;*/
+	/*overflow: hidden;*/
+	/*position: absolute;*/
 	text-align: center;
 
-	left: 25%;
-	top: 150%;
+	/*left: 25%;*/
+	/*top: 150%;*/
 }
 
 
