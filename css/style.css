@@ -33,25 +33,37 @@ a {
 
 }
 
-.main-city-img {
-
+.main-city-img, img {
+	/*background-position: center;*/
+	margin: 0 auto;
+	width: 100%;
 }
 
 /*--- Media Queries ---*/
 
 /*--- Mobile Device Query ---*/
 @media screen and (min-width: 320px) and (max-width: 649px) {
-
+	.container {
+	margin: 0 auto;
+	width: 100%;
+	}
 }
 
 
 /*--- Ipad/ChromeBook Device Query ---*/
-@media screen and (min-width: 650px) and (max-width: 768px) {
-
+@media screen and (min-width: 650px) and (max-width: 1023px) {
+	.container {
+		margin: 0 auto;
+		width: 100%;
+	}
 }
 
 /*--- Laptop/Computer Query ---*/
-@media (min-width: 769px) {
+@media (min-width: 1024px) {
+.container {
+	margin: 0 auto;
+	width: 90%;
+}
 
 }
 
