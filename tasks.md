@@ -1,4 +1,4 @@
-This is a responsive web page project.
+This is a city guide for fun activities to do in San Francisco. 
 
 Tasks for this project:
 
@@ -6,6 +6,9 @@ JavaScript Features:
 1. Create a cool mouse feature, like the classic cable car image.
 
 2. Show/hide the subheader titles and paragraph information. When an individual image is clicked on, the subheader and paragraph information is displayed.
+
+Design:
+1. Add a cool font from Google's free fonts. 
 
 When in Laptop/Desktop pixel size:
 1) Have the navigation menu display horizontally
