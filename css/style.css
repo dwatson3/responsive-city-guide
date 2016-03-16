@@ -78,7 +78,7 @@ figcaption {
 	}
 }
 
-/*--- Laptop/Computer Query ---*/
+/*--- Laptop/Desktop Query ---*/
 @media (min-width: 1024px) {
 .container {
 	margin: 0 auto;
